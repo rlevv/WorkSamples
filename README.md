@@ -11,4 +11,4 @@ A collection of small projects demonstrating experience in Data Science and Soft
 
 ### Software Design
 
-#### Text-Based Tinder for Different Types of Ducks (Python)
+#### Text-Based Tinder for Different Types of Ducks (Java)
